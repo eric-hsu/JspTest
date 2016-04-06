@@ -3,5 +3,6 @@ test.txt modify remote
 test.txt modify merge remote
 test.txt modify merge local
 aaaaaaaa11111
+aaaaaaaa2222222
 bbbbbbbb
 ccccccccc
