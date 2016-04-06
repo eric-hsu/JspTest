@@ -1,2 +1,3 @@
 test.txt modify local
 test.txt modify remote
+test.txt modify merge remote
