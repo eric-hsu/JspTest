@@ -2,6 +2,6 @@ test.txt modify local
 test.txt modify remote
 test.txt modify merge remote
 test.txt modify merge local
-aaaaaaaa
+aaaaaaaa11111
 bbbbbbbb
 ccccccccc
